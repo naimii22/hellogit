@@ -10,6 +10,7 @@ public class Test {
 		int result = a + b;
 		
 		System.out.println(result);
+		System.out.println("push push baby~~");
 	}
 
 }
